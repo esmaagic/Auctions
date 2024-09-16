@@ -6,3 +6,7 @@ node_modules/
 .env.local
 # Ignore uploads directory
 uploads/
+
+.next/
+.swc/
+.*.env
